@@ -1,0 +1,1 @@
+cat /usr/lib/enigma2/python/Plugins/Extensions/PKT/licence.txt

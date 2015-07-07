@@ -1,0 +1,10 @@
+<screen position="center,center" size="600,340" title="PKTeam - Auto DeepStandby" >
+	<widget name="Label1" 	position="10,10"	size="580,28"  zPosition="2" font="Regular;20" halign="left" foregroundColor="#ffffff" />
+	<widget name="Label2" 	position="10,260"	size="580,50"  zPosition="2" font="Regular;20" halign="left" foregroundColor="yellow" />
+	<widget name="config" position="10,45" size="580,230" scrollbarMode="showOnDemand" />
+	<ePixmap pixmap="skin_default/icons/dmm_logo.png"  zPosition="1" position="200,10" size="200,10" alphatest="on" />
+	<ePixmap pixmap="skin_default/buttons/key_red.png"    zPosition="1" position="110,310" size="26,36" alphatest="on" />
+	<ePixmap pixmap="skin_default/buttons/key_green.png"  zPosition="1" position="400,310" size="26,36" alphatest="on" />
+	<widget name="key_red" 	 position="145,312"	size="120,28"  zPosition="2" font="Regular;18" halign="left" valign="top" foregroundColor="#ffffff" />
+	<widget name="key_green" position="440,312" size="120,28"  zPosition="2" font="Regular;18" halign="left" valign="top" foregroundColor="#ffffff" />	
+</screen>

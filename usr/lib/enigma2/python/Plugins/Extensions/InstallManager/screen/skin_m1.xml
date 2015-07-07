@@ -1,0 +1,21 @@
+<screen position="center,center" size="560,285" title="PKT Install Manager v${version}" > 
+		<widget name="device_note" position="0,5" size="560,22" halign="center" font="Regular;18" />
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/hdd.png" position="10,20" size="165,100" alphatest="on" />
+		
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/k_left.png" position="190,45" size="40,40" alphatest="on" />
+		<widget name="devlist" position="240,50" size="80,25" />
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/k_right.png" position="340,45" size="40,40" alphatest="on" />
+		
+		<widget name="image_note" position="0,130" size="560,20" halign="center" font="Regular;18" />
+		
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/k_up.png" position="70,165" size="40,40" alphatest="on" />
+		<widget name="imagelist" position="110,170" size="340,25" />
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/k_down.png" position="460,165" size="40,40" alphatest="on" />
+			
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/red.png" position="0,262" size="90,40" alphatest="on" />
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/green.png" position="200,262" size="90,40" alphatest="on" />
+		<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/InstallManager/buttons/blue.png" position="400,262" size="90,40" alphatest="on" />
+		<widget name="key_red" position="35,255" zPosition="1" size="160,40" font="Regular;15" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
+		<widget name="key_green" position="235,255" zPosition="1" size="160,40" font="Regular;15" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
+		<widget name="key_blue" position="435,255" zPosition="1" size="160,40" font="Regular;15" halign="left" valign="center" backgroundColor="transpBlack" transparent="1" />
+</screen>

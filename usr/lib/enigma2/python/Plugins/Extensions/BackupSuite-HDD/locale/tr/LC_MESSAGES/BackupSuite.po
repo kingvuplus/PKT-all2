@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#start HDD version
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' tr_TR"
+
+#start USB version
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' tr_TR"
+
+#plugin HDD 1
+msgid "Full back-up on HDD/USB"
+msgstr "HDD/USB üzerine tam yedekleme"
+
+#plugin HDD 2
+msgid "Full 1:1 back-up in USB format"
+msgstr "USB formatında tam 1:1 yedekleme"
+
+#plugin HDD 3
+msgid "Full back-up on HDD"
+msgstr "Tam yedekleme HDD üzerine"
+
+#plugin HDD 4
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"Eğer HDD üzerindeki bir USB-yedekleme görüntü yapmak ister misiniz? \n"
+"\n"
+"Bu sadece bir kaç dakika sürer ve tam otomatiktir. \n"
+
+#plugin USB 1
+msgid "Full 1:1 back-up direct on USB"
+msgstr "Tam 1:1 yedekleme USB üzerine"
+
+#plugin USB 2
+msgid "Full back-up to USB"
+msgstr "Tam yedekleme USB  içine"
+
+#plugin USB 3
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"USB üzerinde bir yedekleme yapmak istiyor musunuz? \n"
+"\n"
+"Bu sadece kullanılan dosya sistemi bağlı olarak birkaç dakika sürer ve tam otomatiktir. \n"
+"\n"
+"Evet seçeneğini seçmeden önce ilk olarak bir USB Belek sürücü taktığınızdan emin olun."
+
+#message01
+msgid "No supported receiver found!"
+msgstr "Desteklenen alıcısı bulunamadı!"
+
+#message02
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "YEDEKLEME ARAÇ, KOMPLE YEDEKLEME YAPMAK İÇİN"
+
+#message03
+msgid "Please be patient, a backup will now be made, this will take about: "
+msgstr "Lütfen sabırlı olun, bir yedekleme artık yapılacaktır, bu sürer: "
+
+#message04
+msgid " size to be backed up: "
+msgstr " yedeklenmesi boyutu: "
+
+#message05
+msgid "not found, the backup process will be aborted!"
+msgstr "bulunamadı, yedekleme işlemi iptal olacak!"
+
+#message06
+msgid "Some information about the task"
+msgstr "Görev hakkında bazı bilgiler"
+
+#message06a
+msgid "Create: root.ubifs"
+msgstr "Oluşturma: root.ubifs "
+
+#message07
+msgid "Create: kerneldump"
+msgstr "Oluşturma: kerneldump"
+
+#message08
+msgid "Almost there... Now building the USB-Image!"
+msgstr "Neredeyse ... Şimdi USB Görüntü oluşturmak!"
+
+#message09
+msgid "Additional backup -> "
+msgstr "Ek yedekleme -> "
+
+#message10
+msgid "USB Image created in: "
+msgstr "USB görüntü oluşturulur:"
+
+#message11
+msgid "and there is made an extra copy in: "
+msgstr "ve orada fazladan bir kopyası yapılır:"
+
+#message12-1
+msgid "To restore the image:"
+msgstr "Görüntüyü geri yüklemek için:"
+
+#message12-2
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr "(Ön) USB portuna USB Belek sürücü yerleştirin ve alıcının arkasındaki PowerSwitch ile alıcısını kapatiniz ve tekrar PowerSwitch ile aciniz."
+
+#message12-3
+msgid "Follow the instructions on the front-display."
+msgstr "Ön ekrandaki yönergeleri izleyin."
+
+#message12-4
+msgid "Please wait.... almost ready!"
+msgstr "Lütfen bekleyiniz.... birazdan hazır!"
+
+#message13
+msgid "Press arrow up from frontpanel to start loading."
+msgstr "Yüklemeye başlatmak için ön paneldeki yukarı ok tuşuna basın."
+
+#message14
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr "Lütfen alıcının görüntüyü geri yüklemek nası yapılır el kılavuzuna bakınız."
+
+#message15
+msgid "Image creation FAILED!"
+msgstr "Görüntü oluşturma BAŞARISIZ!"
+
+#message16
+msgid "available "
+msgstr "mevcut"
+
+#message17-1
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr "USB bağlantı noktalarından birinde tespit edilen geçerli bir USB-Belek varsa,bu nedenle ekstra bir kopya yedekleme görüntü şimdi bu USB-Belek için kopyalanır."
+
+#message17-2
+msgid "This only takes about 20 seconds....."
+msgstr "Bu yaklaşık 20 saniye sürer ....."
+
+#message19
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "Yedekleme tamamlandı ve USB flash sürücüne kopyalanır."
+
+#message20
+msgid "Full back-up to the harddisk"
+msgstr "Tam yedekleme sabit disk içine"
+
+#message21-1
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "Geçerli bir USB-Belek bulunmaz ise,hiçbir şey yapilamaz."
+
+#message21-2
+msgid "PLEASE READ THIS:"
+msgstr "LÜTFEN BUNU OKUYUNUZ:"
+
+#message21-3
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr "USB-Belek doğrudan yedeklemek için, USB-Belek bir dosya adı içermesi ZORUNLUDUR:"
+
+#message21-4
+msgid "backupstick or"
+msgstr "backupstick veya"
+
+#message21-5
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+#message21-6
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr "Bu dosyayı içeren bir USB-Belek koyarsanız yedekleme otomatik olarak USB-Belek üzerine yapılacak ve mevcut görüntü gerekirse geri yüklemek için kullanılabilir."
+
+#message21-7
+msgid "The program will exit now."
+msgstr "Program şimdi kapanacak. "
+
+#message22
+msgid "Full back-up direct to USB"
+msgstr "Tam yedekleme USB üzerine"
+
+#message23
+msgid "The content of the folder is:"
+msgstr "Klasörün içeriği:"
+
+#message24
+msgid "Time required for this process: "
+msgstr "Bu işlem için gereken süre: "
+
+#message25
+msgid "minutes"
+msgstr "dakika"
+
+#message26
+msgid "Backup done with: "
+msgstr "Yedekleme ile yapılan: "
+
+#message27
+msgid "KB per second"
+msgstr "KB saniye başına"
+
+#message28
+msgid "Most likely this back-up can't be restored because of it's size, it's simply too big to restore. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "Bu yedekleme büyük olasılıkla boyut nedeniyle geri yüklenemez,bu şekilde geri yüklemek için çok büyük. Bu kısıtlama Bootloader`dan kaynaklaniyor,yedekleme veya BackupSuite dan degildir."
+
+#message29
+msgid "There COULD be a problem with restoring this back-up because the size of the back-up comes close to the maximum size. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "Geri yükleme yedeklemenin maximum boyutunu gectigi icin bir sorun olabilir. Bu kısıtlama Bootloader`dan kaynaklaniyor,yedekleme veya BackupSuite dan degildir."
+

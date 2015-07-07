@@ -1,0 +1,84 @@
+<screen title="InfoCenter" position="0,0" size="1280,720" backgroundColor="#ff000000" flags="wfNoBorder">
+		<eLabel position="0,0" 		size="437,720" backgroundColor="transpBlack" zPosition="-2" />
+		
+		<eLabel position="438,0"	size="2,720" backgroundColor="#80000000" />
+		<eLabel position="440,0"	size="2,720" backgroundColor="#a0000000" />
+		<eLabel position="442,0"	size="2,720" backgroundColor="#c0000000" />
+		<eLabel position="444,0"	size="2,720" backgroundColor="#d0000000" />
+		<eLabel position="446,0"	size="2,720" backgroundColor="#e0000000" />
+		<eLabel position="448,0"	size="2,720" backgroundColor="#f0000000" />
+		
+		<widget name="Naglowek" zPosition="5" position="50,40" size="337,30" font="Regular;20" halign="center" transparent="1" foregroundColor="grey" backgroundColor="transpBlack" />
+		<eLabel position="0,70"	size="275,1" backgroundColor="grey" />
+		
+		<widget name="EnigmaVersion" position="50,105" zPosition="1" size="337,16" font="Regular;14" halign="center"  transparent="1" backgroundColor="transpBlack" />
+		
+		<widget name="CPUus" 	position="50,155"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="CPUusage" position="150,155"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="CPU" 		position="230,155"	size="180,20" font="Regular;13" halign="right"  transparent="1" foregroundColor="grey" backgroundColor="transpBlack" zPosition="2"/>
+		
+		<widget name="MEMus" 	position="50,175"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MEMusage" position="150,175"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		
+		<widget name="MEMfr" 	position="290,175"	size="80,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MEMfree"  position="330,175"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+	
+		<widget name="Where" 	position="50,235"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="WhereMod" position="177,235"	size="80,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="UPt" 		position="290,235"	size="30,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="UPtime" 	position="300,235"	size="110,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		
+		<widget name="SYS" 		position="50,255"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="SYSuse" 	position="100,255"	size="130,40" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+			
+		<widget name="SYSf" 	position="290,255"	size="80,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="SYSfree" 	position="310,255"	size="100,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+			
+		<widget name="HDD" 		position="50,315"	size="50,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="HDDmount" position="80,315"	size="150,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="HDDmodel" position="230,315"	size="180,15" font="Regular;13" halign="right"  transparent="1" foregroundColor="grey" backgroundColor="transpBlack" zPosition="2"/>
+		
+		<widget name="HDDsi" 	position="50,335"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="HDDsize" 	position="150,335"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="HDDfr" 	position="290,335"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="HDDfree" 	position="330,335"	size="80,33" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		
+		<widget name="HDDt" 	position="50,355"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="HDDtemp" 	position="150,355"	size="80,16" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		
+		<widget name="Movie" 	position="50,385"	size="180,16" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MovieFr" 	position="290,385"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MovieFree" position="330,385"	size="80,33" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		
+		<widget name="MovieT" 	position="50,405"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MovieTemp" position="150,405"	size="80,16" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+
+		<widget name="NetIP" 	position="50,425"	size="80,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="IP" 		position="90,425"	size="150,16" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+
+		<eLabel size="350,1" position="0,480" backgroundColor="grey" />
+		<widget name="BR" 	position="50,500"	size="400,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+			
+		<widget name="CR" 	position="50,530"	size="400,200" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="AR" 	position="50,550"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+			
+		<widget name="MAX" 	position="50,580"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+		<widget name="MIN" 	position="50,600"	size="130,20" font="Regular;14" halign="left"  transparent="1" backgroundColor="transpBlack" />
+			
+		<widget name="vcur" position="162,530"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="vavg" position="162,550"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+		<widget name="vmax" position="162,580"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+		<widget name="vmin" position="162,600"	size="80,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+			
+		<widget name="acur"	position="170,530"	size="180,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="yellow" />
+		<widget name="aavg"	position="170,550"	size="180,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+		<widget name="amax"	position="170,580"	size="180,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+		<widget name="amin"	position="170,600"	size="180,20" font="Regular;14" halign="right"  transparent="1" backgroundColor="transpBlack" foregroundColor="grey" />
+		
+		<widget name="OscamShow" 	position="460,530" 	size="820,150" alphatest="on" zPosition="2" />
+		<widget name="_oscam"	position="475,575" size="750,95"  font="Regular;14" halign="left" transparent="1" backgroundColor="transpBlack" foregroundColor="grey" noWrap="1" zPosition="3" />
+		
+		<widget name="Green"	position="40,670" size="100,25"  font="Regular;14" halign="center"  transparent="1" backgroundColor="transpBlack" foregroundColor="green" />
+		<eLabel text="Processes"  	position="180,670" size="100,25" font="Regular;14" halign="center"  transparent="1" backgroundColor="transpBlack" foregroundColor="#eeff00" />
+		<widget name="Blue"		position="310,670" size="100,25" font="Regular;14" halign="center"  transparent="1" backgroundColor="transpBlack" foregroundColor="blue" />
+</screen>

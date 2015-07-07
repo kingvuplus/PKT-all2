@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#start HDD version
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' it_IT"
+
+#start USB version
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' it_IT"
+
+#plugin HDD 1
+msgid "Full back-up on HDD/USB"
+msgstr "Back-up completo su HDD/USB"
+
+#plugin HDD 2
+msgid "Full 1:1 back-up in USB format"
+msgstr "Back-up completo 1:1 sulla USB"
+
+#plugin HDD 3
+msgid "Full back-up on HDD"
+msgstr "Back-up completo su HDD"
+
+#plugin HDD 4
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"Si desidera mettere il back-up USB sull'HDD?\n"
+"\n"
+"Questa operazione richiede pochi minuti ed è completamente automatica. \n"
+
+#plugin USB 1
+msgid "Full 1:1 back-up direct on USB"
+msgstr "Back-up completo 1:1 su USB"
+
+#plugin USB 2
+msgid "Full back-up to USB"
+msgstr "Back-up completo su USB"
+
+#plugin USB 3
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"Si desidera fare un back-up su USB?\n"
+"\n"
+"Questa operazione richiede pochi minuti a seconda del file system utilizzato ed è completamente automatica.\n"
+"\n"
+"Assicuratevi che la penna USB sia inserita prima di selezionare Sì."
+
+#message01
+msgid "No supported receiver found!"
+msgstr "Nessun ricevitore supportato trovato!"
+
+#message02
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "BACK-UP TOOL, per fare un back-up completo"
+
+#message03
+msgid "Please be patient, a backup will now be made, this will take about: "
+msgstr "Si prega di essere pazienti, verrà ora fatta una copia di backup, questo richiederà circa: "
+
+#message04
+msgid " size to be backed up: "
+msgstr " dimensione da sottoporre a backup: "
+
+#message05
+msgid "not found, the backup process will be aborted!"
+msgstr "non trovato, il processo di back-up sarà interrotto"
+
+#message06
+msgid "Some information about the task"
+msgstr "Alcune informazioni sul compito"
+
+#message06a
+msgid "Create: root.ubifs"
+msgstr "Crea: root.ubifs"
+
+#message07
+msgid "Create: kerneldump"
+msgstr "Crea: kerneldump"
+
+#message08
+msgid "Almost there... Now building the USB-Image!"
+msgstr "Processo quasi terminato....immagine su USB"
+
+#message09
+msgid "Additional backup -> "
+msgstr "Backup supplementare -> "
+
+#message10
+msgid "USB Image created in: "
+msgstr "immagine USB creata in: "
+
+#message11
+msgid "and there is made an extra copy in: "
+msgstr "una copia supplementare in: "
+
+#message12-1
+msgid "To restore the image:"
+msgstr "Per ripristinare l'immagine:"
+
+#message12-2
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr "Inserire la penna USB nella  porta USB anteriore e spegnere e riaccendere il ricevitore e con l'interruttore posto sul retro del ricevitore."
+
+#message12-3
+msgid "Follow the instructions on the front-display."
+msgstr "Seguire le istruzioni sul display."
+
+#message12-4
+msgid "Please wait.... almost ready!"
+msgstr "Si prega di aspettare.... quasi terminato!"
+
+#message13
+msgid "Press arrow up from frontpanel to start loading."
+msgstr "Premere la freccia UP dal pannello frontale per avviare il caricamento."
+
+#message14
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr "Consultare il manuale del ricevitore su come ripristinare l'immagine."
+
+#message15
+msgid "Image creation FAILED!"
+msgstr "Creazione immagine FALLITA!"
+
+#message16
+msgid "available "
+msgstr "disponibile "
+
+#message17-1
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr "Penna USB rilevata in una delle porte USB, la copia del back-up sarà eseguito sul dispositivo trovato."
+
+#message17-2
+msgid "This only takes about 20 seconds....."
+msgstr "Questo richiede  circa 20 secondi....."
+
+#message19
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "Backup finito e copiatosul FlashDrive USB."
+
+#message20
+msgid "Full back-up to the harddisk"
+msgstr "Back-up completo su Harddisk"
+
+#message21-1
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "Penna  USB non rilevata, operazione non consentita."
+
+#message21-2
+msgid "PLEASE READ THIS:"
+msgstr "SI PREGA DI LEGGERE QUI:"
+
+#message21-3
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr "Per il back-up diretto sulla chiavetta USB, la chiavetta USB deve contenere un file con il nome:"
+
+#message21-4
+msgid "backupstick or"
+msgstr "backupstick o"
+
+#message21-5
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+#message21-6
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr "Se si inserisce una chiavetta USB contenente il file, allora, il back-up viene automaticamente effettuato sulla chiavetta USB e può essere utilizzato per ripristinare l'immagine corrente, se necessario."
+
+#message21-7
+msgid "The program will exit now."
+msgstr "Il programma verra ora terminato."
+
+#message22
+msgid "Full back-up direct to USB"
+msgstr "Back-up completo su USB"
+
+#message23
+msgid "The content of the folder is:"
+msgstr "Il contenuto della cartella è:"
+
+#message24
+msgid "Time required for this process: "
+msgstr "Tempo richiesto per questo processo: "
+
+#message25
+msgid "minutes"
+msgstr "minuti"
+
+#message26
+msgid "Backup done with: "
+msgstr "Backup fatto con: "
+
+#message27
+msgid "KB per second"
+msgstr "KB per secondo"
+
+#message28
+msgid "Most likely this back-up can't be restored because of it's size, it's simply too big to restore. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "E' probabile che questo back-up non puo essere ripristinato a causa della sua dimensione troppo elevata. Questa è una limitazione del bootloader e non di back-up o BackupSuite."
+
+#message29
+msgid "There COULD be a problem with restoring this back-up because the size of the back-up comes close to the maximum size. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "Potrebbe esserci un problema con il ripristino di questo backup perchè la dimensione si avvicina al limite massimo consentito. Questa è una limitazione del bootloader e non di back-uo o BackupSuite."
+

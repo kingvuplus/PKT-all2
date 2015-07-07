@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Pedro_Newbie <backupsuite@outlook.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#start HDD versie
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-HDD/backup.sh' nl_NL"
+
+#start USB versie
+msgid "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' en_EN"
+msgstr "sh '/usr/lib/enigma2/python/Plugins/Extensions/BackupSuite-USB/backup.sh' nl_NL"
+
+#plugin HDD 1
+msgid "Full back-up on HDD/USB"
+msgstr "Volledige back-up op HDD/USB"
+
+#plugin HDD 2
+msgid "Full 1:1 back-up in USB format"
+msgstr "Volledige 1:1 back-up in USB formaat"
+
+#plugin HDD 3
+msgid "Full back-up on HDD"
+msgstr "Volledige back-up op de harddisk"
+
+#plugin HDD 4
+msgid ""
+"Do you want to make an USB-back-up image on HDD? \n"
+"\n"
+"This only takes a few minutes and is fully automatic.\n"
+msgstr ""
+"Wil je een USB-back-up maken op je harddisk? \n"
+"\n"
+"Dit duurt enige minuten afhankelijk van het bestandssysteem en is volledig automatisch.\n"
+
+#plugin USB 1
+msgid "Full 1:1 back-up direct on USB"
+msgstr "Volledige 1:1 back-up direct op een USB-stick"
+
+#plugin USB 2
+msgid "Full back-up to USB"
+msgstr "Volledige back-up naar USB"
+
+#plugin USB 3
+msgid ""
+"Do you want to make a back-up on USB?\n"
+"\n"
+"This only takes a few minutes depending on the used filesystem and is fully automatic.\n"
+"\n"
+"Make sure you first insert an USB flash drive before you select Yes."
+msgstr ""
+"Wil je een back-up maken direct op een USB-stick?\n"
+"\n"
+"Dit duurt enige minuten afhankelijk van het bestandssysteem.\n"
+"\n"
+"Zorg er voor dat een USB-stick is geplaatst in de USB-poort voordat je JA kiest."
+
+#message01
+msgid "No supported receiver found!"
+msgstr "Geen ondersteunde ontvanger gevonden!"
+
+#message02
+msgid "BACK-UP TOOL, FOR MAKING A COMPLETE BACK-UP"
+msgstr "BACK-UP GEREEDSCHAP, VOOR HET MAKEN VAN EEN VOLLEDIGE BACK-UP"
+
+#message03
+msgid "Please be patient, a backup will now be made, this will take about: "
+msgstr "Een ogenblik geduld, de back-up wordt nu gemaakt, dit duurt ongeveer: "
+
+#message04
+msgid " size to be backed up: "
+msgstr " omvang om te backuppen: "
+
+#message05
+msgid "not found, the backup process will be aborted!"
+msgstr "niet gevonden, het back-up proces zal worden afgebroken!"
+
+#message06
+msgid "Some information about the task"
+msgstr "Wat informatie omtrent de taak"
+
+#message06a
+msgid "Create: root.ubifs"
+msgstr "Maak nu het bestand: root.ubifs"
+
+#message07
+msgid "Create: kerneldump"
+msgstr "Maak nu de kerneldump"
+
+#message08
+msgid "Almost there... Now building the USB-Image!"
+msgstr "Bijna klaar... Nu wordt de USB-image in elkaar gezet!"
+
+#message09
+msgid "Additional backup -> "
+msgstr "Extra backup -> "
+
+#message10
+msgid "USB Image created in: "
+msgstr "USB-image gemaakt in: "
+
+#message11
+msgid "and there is made an extra copy in: "
+msgstr "en er is een extra kopie gemaakt in: "
+
+#message12-1
+msgid "To restore the image:"
+msgstr "Om de back-up terug te plaatsen:"
+
+#message12-2
+msgid "Place the USB-flash drive in the (front) USB-port and switch the receiver off and on with the powerswitch on the back of the receiver."
+msgstr "Plaats de USB-stick in de (voorste) USB-poort en schakel de receiver uit en aan met de schakelaar op de achterkant van de receiver."
+
+#message12-3
+msgid "Follow the instructions on the front-display."
+msgstr "Volg de instructies op het display."
+
+#message12-4
+msgid "Please wait.... almost ready!"
+msgstr "Nog heel even wachten.... bijna klaar!"
+
+#message13
+msgid "Press arrow up from frontpanel to start loading."
+msgstr "Druk op pijl-omhoog op het voorpaneel om het laden te starten."
+
+#message14
+msgid "Please check the manual of the receiver on how to restore the image."
+msgstr "Raadpleeg de handleiding van de box hoe je een back-up terug kan plaatsen."
+
+#message15
+msgid "Image creation FAILED!"
+msgstr "Back-up maken is NIET gelukt!"
+
+#message16
+msgid "available "
+msgstr "beschikbaar "
+
+#message17-1
+msgid "There is a valid USB-flashdrive detected in one of the USB-ports, therefore an extra copy of the back-up image will now be copied to that USB-flashdrive."
+msgstr "Er is een geldige USB-stick gevonden in een van de USB-poorten, daarom wordt er nu een extra kopie van de back-up gekopieerd naar de USB-stick."
+
+#message17-2
+msgid "This only takes about 20 seconds....."
+msgstr "Dit duurt maar ongeveer 20 seconden....."
+
+#message19
+msgid "Backup finished and copied to your USB-flashdrive."
+msgstr "Backup klaar en gekopieerd naar de USB-stick."
+
+#message20
+msgid "Full back-up to the harddisk"
+msgstr "Volledige Backup op de harde schijf"
+
+#message21-1
+msgid "There is NO valid USB-stick found, so I've got nothing to do."
+msgstr "Er is GEEN geldige USB-stick gevonden, dus ik heb niets te doen."
+
+#message21-2
+msgid "PLEASE READ THIS:"
+msgstr "LEES DIT A.U.B."
+
+#message21-3
+msgid "To back-up directly to the USB-stick, the USB-stick MUST contain a file with the name:"
+msgstr "Om direct een back-up op de USB-stick te maken MOET er een bestand op staan met de naam:"
+
+#message21-4
+msgid "backupstick or"
+msgstr "backupstick of"
+
+#message21-5
+msgid "backupstick.txt"
+msgstr "backupstick.txt"
+
+#message21-6
+msgid "If you place an USB-stick containing this file then the back-up will be automatically made onto the USB-stick and can be used to restore the current image if necessary."
+msgstr "Als je een USB-stick plaatst met dit bestand dan wordt de back-up automatisch op de USB-stick geplaatst en kan dan gebruikt worden om de image te herstellen."
+
+#message21-7
+msgid "The program will exit now."
+msgstr "Het programma sluit nu af."
+
+#message22
+msgid "Full back-up direct to USB"
+msgstr "Volledige back-up direct op USB"
+
+#message23
+msgid "The content of the folder is:"
+msgstr "De inhoud van de map is:"
+
+#message24
+msgid "Time required for this process: "
+msgstr "Tijd die nodig was voor dit proces: "
+
+#message25
+msgid "minutes"
+msgstr "minuten"
+
+#message26
+msgid "Backup done with: "
+msgstr "Backup gemaakt met: "
+
+#message27
+msgid "KB per second"
+msgstr "KB per seconde"
+
+#message28
+msgid "Most likely this back-up can't be restored because of it's size, it's simply too big to restore. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "Hoogstwaarschijnlijk kan deze back-up niet hersteld worden gezien de omvang, het is gewoonweg te groot om te herstellen. Dit is een beperking van de bootloader niet van de back-up of de BackupSuite."
+
+#message29
+msgid "There COULD be a problem with restoring this back-up because the size of the back-up comes close to the maximum size. This is a limitation of the bootloader not of the back-up or the BackupSuite."
+msgstr "Er KAN een probleem zijn om deze back-up te herstellen vanwege het feit dat de omvang dicht tegen de maximale omvang ligt. Dit is een beperking van de bootloader, niet van de back-up of de BackupSuite."
+

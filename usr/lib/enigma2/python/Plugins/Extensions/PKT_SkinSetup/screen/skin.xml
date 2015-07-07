@@ -1,0 +1,19 @@
+<screen position="45,40" size="500,200" title="VideoSetup" flags="wfNoBorder">
+	<eLabel position="0,0"	zPosition="-9" size="500,200" backgroundColor="transpBlack" />
+	<eLabel position="0,0"	zPosition="-9" size="500,1" backgroundColor="yellow" />
+	<eLabel position="0,0"	zPosition="-9" size="1,25" backgroundColor="yellow" />
+	<eLabel position="499,0"	zPosition="-9" size="1,25" backgroundColor="yellow" />
+	
+	<widget name="info"  position="10,5" size="480,15"  zPosition="2" font="Regular;13" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="yellow" />
+	<eLabel position="0,25"	zPosition="-9" size="500,1" backgroundColor="yellow" />
+	<eLabel position="0,199"	zPosition="9" size="500,1" backgroundColor="yellow" />
+	
+	<widget name="config" backgroundColor="transpBlack" position="10,60" size="480,200" scrollbarMode="showOnDemand" />
+	
+	<widget name="Brightness"  position="160,63" size="45,20"  zPosition="2" font="Regular;16" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="yellow"/>
+	<widget name="Saturation"  position="160,88" size="45,20"  zPosition="2" font="Regular;16" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="yellow"/>
+	<widget name="Tint"  position="160,113" size="45,20"  zPosition="2" font="Regular;16" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="yellow"/>
+	 
+	<widget name="key_red" 	 position="85,166"	size="120,28"  zPosition="2" font="Regular;16" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="red"/>
+	<widget name="key_green" position="360,166" size="120,28"  zPosition="2" font="Regular;16" halign="left" valign="top" backgroundColor="transpBlack" foregroundColor="green"/>	
+</screen>

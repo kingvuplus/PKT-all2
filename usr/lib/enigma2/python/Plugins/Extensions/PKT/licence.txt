@@ -1,0 +1,41 @@
+Software :		PKTeam Blue Panel for Enigma2
+Author:		Father Pio
+Developer:		PKTeam
+Home page:		http://pkteam.pl
+VERSION:		3.2.7 (2013)
+
+END-USER LICENSE AGREEMENT ( EULA ) FOR THIS SOFTWARE
+===================================================
+
+NOTICE:
+.............
+
+PLEASE READ THIS DOCUMENT CAREFULLY BEFORE YOU START USING THIS SOFTWARE.
+BY USING THIS SOFTWARE IN ANY WAY YOU ACKNOWLEDGE THAT YOU HAVE READ, 
+UNDERSTAND, AGREE TO THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE 
+TO THE TERMS OF THIS AGREEMENT, ABORT USING THIS SOFTWARE AND DELETE IT.
+
+Freeware product:
+...................................
+
+This software is Freeware, that means you can use it for free at no cost.
+
+Licensing:
+...............
+
+-This Software License does not give any intellectual rights over this software. You only have the right to install or use this software according to the terms of this agreement.
+
+-Any attempt to reverse-engineer, redistribute, decompile, disassemble, clone, modify or alter in any way this software without the approval of the Author/Developer is strictly prohibited.
+
+-You may copy the releases of this software as you wish, and give exact copies of the original releases to anyone, and distribute the releases of the software in its unmodified form via electronic means. But you should not  charge or request donations for any such copies however made, or from distributing the software  with other products without the Author's/Developer's written permission.
+
+Termination:
+..................
+
+This License will also terminate if you fail to comply with any term or condition of this Agreement. Upon such termination, you agree to destroy the Software, together with all copies thereof.
+
+DISCLAIMER OF WARRANTIES:
+.................................................
+
+This software is supplied "AS IS". The Author/Developer  disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The user must assume the entire risk of using the Software.
+
